@@ -1,7 +1,6 @@
 # COURSE-PROJECT-OOPS
 #include <stdio.h>
 #include <string.h>
-
 #define MAX_BOOKS 100
 #define MAX_MEMBERS 50
 
